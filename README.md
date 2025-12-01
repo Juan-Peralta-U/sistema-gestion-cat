@@ -15,6 +15,3 @@ Sistema web para gestión de solicitudes de soporte técnico en una universidad.
 - Backend: Node.js + Express
 - Base de datos: PostgreSQL
 - Autenticación: JWT
-
-## Documentación
-Ver carpeta `/docs` para requerimientos, diagramas y cronograma.
